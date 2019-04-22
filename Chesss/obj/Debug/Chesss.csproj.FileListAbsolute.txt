@@ -1,0 +1,7 @@
+C:\Users\pfsup\source\repos\Chesss\Chesss\bin\Debug\Chesss.exe.config
+C:\Users\pfsup\source\repos\Chesss\Chesss\bin\Debug\Chesss.exe
+C:\Users\pfsup\source\repos\Chesss\Chesss\bin\Debug\Chesss.pdb
+C:\Users\pfsup\source\repos\Chesss\Chesss\obj\Debug\Chesss.csproj.CoreCompileInputs.cache
+C:\Users\pfsup\source\repos\Chesss\Chesss\obj\Debug\Chesss.exe
+C:\Users\pfsup\source\repos\Chesss\Chesss\obj\Debug\Chesss.pdb
+C:\Users\pfsup\source\repos\Chesss\Chesss\obj\Debug\Chesss.csprojAssemblyReference.cache
